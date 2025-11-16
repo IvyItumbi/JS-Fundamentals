@@ -12,5 +12,6 @@ Each file follows the exact requirements of the project (no `var`, only `console
 
 ## How to run
 
-```bash
+
 node <filename>.js [args…]
+
